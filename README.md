@@ -5,9 +5,9 @@ generates clips, enhances them with captions, and publishes to social platforms.
 
 
 
-🔗 **Legal**
-- [Terms of Service](./TERMS_OF_SERVICE.md)
-- [Privacy Policy](./PRIVACY_POLICY.md)
+## Legal
+- [Terms of Service](legal/TERMS_OF_SERVICE.md)
+- [Privacy Policy](legal/PRIVACY_POLICY.md)
 
 ## Contact
 Email: eosolucoesempresariais@gmail.com
